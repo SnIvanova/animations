@@ -673,7 +673,7 @@ body {
 }
 .eye {
   background: var(--c2);
-  border: 0.5vmin solid var(--c7);
+  border: 0.2vmin solid var(--c7);
   width: 2.35vmin;
   height: 2.35vmin;
   border-radius: 50%;
